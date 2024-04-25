@@ -1,0 +1,14 @@
+E:\Projects\DotNet\FindSum\bin\Debug\net8.0\FindSum.exe
+E:\Projects\DotNet\FindSum\bin\Debug\net8.0\FindSum.deps.json
+E:\Projects\DotNet\FindSum\bin\Debug\net8.0\FindSum.runtimeconfig.json
+E:\Projects\DotNet\FindSum\bin\Debug\net8.0\FindSum.dll
+E:\Projects\DotNet\FindSum\bin\Debug\net8.0\FindSum.pdb
+E:\Projects\DotNet\FindSum\obj\Debug\net8.0\FindSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DotNet\FindSum\obj\Debug\net8.0\FindSum.AssemblyInfoInputs.cache
+E:\Projects\DotNet\FindSum\obj\Debug\net8.0\FindSum.AssemblyInfo.cs
+E:\Projects\DotNet\FindSum\obj\Debug\net8.0\FindSum.csproj.CoreCompileInputs.cache
+E:\Projects\DotNet\FindSum\obj\Debug\net8.0\FindSum.dll
+E:\Projects\DotNet\FindSum\obj\Debug\net8.0\refint\FindSum.dll
+E:\Projects\DotNet\FindSum\obj\Debug\net8.0\FindSum.pdb
+E:\Projects\DotNet\FindSum\obj\Debug\net8.0\FindSum.genruntimeconfig.cache
+E:\Projects\DotNet\FindSum\obj\Debug\net8.0\ref\FindSum.dll
